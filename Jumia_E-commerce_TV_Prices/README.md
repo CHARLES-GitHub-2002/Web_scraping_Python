@@ -18,8 +18,11 @@ This Python script scrapes television names and their current prices from the [J
 
 ## 📁 Files
 jumia_tv_prices.py # Main script for scraping
+
 requirements.txt # List of Python dependencies
+
 jumia_televisions3.csv # Output CSV file (auto-generated after run)
+
 README.md # Project documentation
 
 ###Sample of Output
@@ -29,4 +32,5 @@ README.md # Project documentation
 | Skyworth 55G6500G, 55" 4K UHD Android TV | KSh 47,999  |
 | Vision Plus 32 Inch Frameless HD LED TV  | KSh 13,499  |
 | Samsung 65" UHD 4K Smart TV              | KSh 102,999 |
+
 
