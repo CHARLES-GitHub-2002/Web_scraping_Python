@@ -8,4 +8,4 @@ This repository contains a variety of Python-based web scraping scripts for coll
 - Requests
 - Selenium (for dynamic pages)
 - Pandas (for data storage/export)
-- lxml / html.parser
+- lxml / html.parser.
